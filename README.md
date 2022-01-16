@@ -17,3 +17,8 @@ Skills!
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
 
 <!-- aws redux  -->
+
+<!-- 미래목표 or 관심 or 공부하고싶은 언어 -->
+
+Find me!
+<!-- 링크드인 이메일 etc-->
